@@ -1,0 +1,10 @@
+<suite name="APIFreamworkGorest">
+	<test name="Gorest API Testing">
+		
+		<classes>
+			<class name="APITest.UserAPITest" enable="true" />
+		</classes>
+	</test>
+	
+	
+</suite>
